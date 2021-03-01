@@ -1,10 +1,10 @@
 # Ecommerce-price-sraping
 
 ## Requirements
-pip install requests
-pip install beautifulsoup4
+*pip install requests
+*pip install beautifulsoup4
 
 ##Dependencies
-flipkart.py
-ebay.py
-croma.py
+*flipkart.py
+*ebay.py
+*croma.py
