@@ -5,5 +5,5 @@
 * pip install beautifulsoup4
 
 ## Dependencies
-* ebay.py
+* croma.py
 * amazon.py
