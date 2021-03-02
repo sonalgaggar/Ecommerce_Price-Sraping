@@ -5,6 +5,5 @@
 * pip install beautifulsoup4
 
 ## Dependencies
-* flipkart.py
 * ebay.py
-* croma.py
+* amazon.py
